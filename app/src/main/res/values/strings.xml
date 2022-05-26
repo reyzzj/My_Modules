@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestinKilag</string>
+    <string name="Header">My Modules</string>
+    <string name="Module_1">C346 Android Programming</string>
+    <string name="Module_2">C349 iPad Programming</string>
+</resources>
